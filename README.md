@@ -10,4 +10,12 @@ This will require an internet connection in order to work properly.
 It is highly reccomended to install this onto a fresh installation of Arch, as it is less likely to cause installation issues.  
 The installer will delete your entire `~/.config` folder upon installation, which may result in some stuff breaking.  
 
-Please make sure to run the installer as `sudo` or root.
+Please make sure to run the installer as `sudo` or root.  
+Feel free to report any issues here, and they will be addressed as soon as possible.  
+
+Features:
+- Custom command line utility for easy customisation.
+- Easy theme matching with wallpaper.
+- Quick installation.
+- Simplistic.
+- Command line support.
